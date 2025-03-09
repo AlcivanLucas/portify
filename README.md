@@ -14,7 +14,7 @@ The **Professional Portfolio Platform** is an open-source project that allows us
 ### **Frontend**
 - **Framework:** React
 - **Styling:** Tailwind CSS
-- **Features:** Drag-and-drop portfolio editor, custom template creation
+- **Features:** Portfolio editor, custom template creation
 
 ### **Backend**
 - **Framework:** NestJS
