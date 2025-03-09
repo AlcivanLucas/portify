@@ -1,0 +1,75 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+.stacktrace
+
+# TypeScript
+*.tsbuildinfo
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+coverage/
+.docusaurus/
+public/
+
+# Static build files
+*.cache/
+.cache-loader/
+.parcel-cache/
+.vscode/
+.vscode-test/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# IDEs and Editors
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+jest-html-reporters-*
+
+# Environment files
+.env
+.env.local
+.env.test
+.env.*.local
+
+# Miscellaneous
+*.log
+*.gz
+*.zip
+*.tar
+*.rar
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
